@@ -1,4 +1,5 @@
-#This script uses PowerShell and Common Information Model CIM to collect standardized hardware metadata device name, manufacturer, model, and serial number which can be used for asset tracking, lifecycle planning, and reporting within Intune.
+#This script uses PowerShell and Common Information Model CIM to collect standardized hardware metadata device name, 
+#manufacturer, model, and serial number which can be used for asset tracking, lifecycle planning, and reporting within Intune.
 
 # Get-HardwareInventory.ps1
 # Collects basic hardware information for lifecycle tracking
