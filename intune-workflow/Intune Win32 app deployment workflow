@@ -1,9 +1,0 @@
-# Chrome Win32 App Deployment – Intune Workflow
-
-This folder demonstrates a complete **Win32 app deployment workflow** for Microsoft Intune using Google Chrome as an example.  
-It includes **installation, detection, and uninstallation scripts** designed for enterprise endpoints.
-
----
-
-## Folder Structure
-
